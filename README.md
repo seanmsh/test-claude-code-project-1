@@ -1,36 +1,119 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hit Trophy Homepage Design
 
-## Getting Started
+An ultra-modern, cutting-edge homepage design for Hit Trophy - Custom Engraved Awards, Trophies & Gifts featuring advanced UI/UX patterns and contemporary design trends.
 
-First, run the development server:
+## Files Included
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. **index.html** - Complete HTML structure with all requested sections
+2. **styles.css** - Modern styling using Hit Trophy's brand colors
+3. **script.js** - Interactive functionality (FAQ accordion, smooth scroll, etc.)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Modern Design Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This homepage features cutting-edge design patterns and premium UI elements:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Advanced Visual Effects
+- **Glassmorphism Header**: Frosted glass effect with backdrop blur for modern, Apple-like aesthetic
+- **Animated Gradients**: Dynamic background gradients with floating orbs and radial effects
+- **Micro-animations**: Smooth hover states, transform effects, and floating animations
+- **Advanced Shadows**: Multi-layered shadow system (sm, md, lg, xl) for depth and dimension
+- **Border Gradients**: Subtle gradient borders that appear on hover for premium feel
 
-## Learn More
+### Typography & Spacing
+- **Modern Font System**: DM Sans + Space Grotesk for contemporary, professional look
+- **Negative Letter Spacing**: Tight letter spacing (-2px to -0.5px) for modern headlines
+- **Generous White Space**: 120px section padding for breathing room and luxury feel
+- **Typography Scale**: Proper hierarchy with 68px hero titles down to 11px micro-copy
 
-To learn more about Next.js, take a look at the following resources:
+### Interactive Elements
+- **Smooth Transitions**: Cubic-bezier easing (0.4, 0, 0.2, 1) for professional animations
+- **Transform Animations**: Cards lift on hover with translateY effects
+- **Scale Transforms**: Images scale and rotate subtly on interaction
+- **Shimmer Effects**: Button shine animations on hover
+- **Underline Animations**: Progressive underline reveals on nav hover
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Color & Branding
+- **Refined Color Palette**: Enhanced navy (#1a4d7a) and teal (#2d7ba6) for sophistication
+- **Gradient Buttons**: Linear gradients (135deg) on all primary CTAs
+- **Backdrop Patterns**: Subtle diagonal stripes and radial overlays
+- **Accent Colors**: Vibrant orange (#ff6b35) and yellow (#f2e93a) for energy
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Component Design
+- **Premium Cards**: Subtle borders, larger radius (24px), gradient borders on hover
+- **Modern Badges**: Gradient backgrounds with proper shadows and uppercase styling
+- **Icon Containers**: Rounded backgrounds with color overlays for visual interest
+- **Glass Containers**: Transparent backgrounds with backdrop-filter blur effects
 
-## Deploy on Vercel
+### Performance & Optimization
+- **Hardware Acceleration**: Transform and opacity for smooth 60fps animations
+- **Font Smoothing**: Antialiased text rendering for crisp typography
+- **Optimized Shadows**: Multi-layer shadows that don't impact performance
+- **CSS Variables**: Consistent design tokens for maintainability
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## To View
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Simply open `index.html` in any modern web browser (Chrome, Firefox, Safari, Edge).
+
+## Brand Colors (Enhanced for Modern UI)
+
+### Primary Colors
+- **Primary Navy**: `#1a4d7a` (refined darker navy for premium feel)
+- **Primary Teal**: `#2d7ba6` (vibrant teal for interactive elements)
+- **Light Blue**: `#5cb3d9` (accent for gradients and highlights)
+
+### Accent Colors
+- **Accent Orange**: `#ff6b35` (energetic CTAs and highlights)
+- **Accent Yellow**: `#f2e93a` (trust signals and icons)
+
+### UI System Colors
+- **Dark Text**: `#0f1419` (near-black for optimal readability)
+- **Gray Text**: `#536471` (secondary text and descriptions)
+- **Light Gray**: `#f7f9fc` (backgrounds and containers)
+- **Border**: `rgba(0, 0, 0, 0.08)` (subtle borders)
+
+### Shadow System
+- **shadow-sm**: Subtle depth for small elements
+- **shadow-md**: Medium elevation for cards
+- **shadow-lg**: Large elevation for modals and overlays
+- **shadow-xl**: Maximum depth for dramatic effects
+
+## Real Content Included
+
+All content has been updated with real information from Hit Trophy's website:
+
+- **Products**: Real product names and pricing (Crystal Triangle Award $69.90, Blue Staircase Crystal Award $59.90, Perpetual Plaque $99.90, Glass & Acrylic Award $34.90)
+- **Contact Info**: Real phone (419) 445-5356 and email (sales@HitTrophy.com)
+- **Social Media**: All 6 social media links (Facebook, Twitter/X, Instagram, LinkedIn, Pinterest, YouTube)
+- **Categories**: Updated with accurate product counts and descriptions
+- **Testimonial**: Includes actual customer review from Linda in Georgia
+- **Client Types**: Specific organizations served (Fortune 500, Military, Universities, Police, Fire, Small Businesses)
+
+## Real Product Images Integrated
+
+All emoji placeholders have been replaced with actual product images from Hit Trophy's website:
+
+### Hero Section
+- Crystal Triangle Award (CRY261M) - 1800x1800px high-resolution image
+
+### Product Categories (6 images)
+- Sports Awards - Glass Basketball Trophy
+- Plaques - Black & Silver Perpetual Photo Plaque
+- Statues - Bald Eagle Statue with American Flag
+- Personalized Gifts - Picture Frame Desk Clock
+- Service Awards - Purple Tidal Acrylic Award
+- Crystal Awards - Blue Staircase Crystal Award
+
+### Best Sellers (4 images)
+- Crystal Triangle Award - $69.90
+- Blue Staircase Crystal Award - $59.90
+- Perpetual Plaque - $99.90
+- Purple Tidal Acrylic Award - $34.90
+
+All images are hosted on Hit Trophy's CDN and load quickly with proper object-fit styling for optimal display.
+
+## Remaining Next Steps
+
+1. Add actual client logos in the Featured Clients section (if available)
+2. Connect navigation links to actual product pages
+3. Implement shopping cart and search functionality
+4. Add more product images if needed for expansion
